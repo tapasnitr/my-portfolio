@@ -5,7 +5,7 @@ import { FiArrowUpRight } from "react-icons/fi";
 
 const projects = [
   {
-    title: "ExPoint – Mock Test Platform",
+    title: "ExaamPoint – Mock Test Platform",
     description:
       "A scalable exam platform where students take JEE/NEET/GATE mock tests. Built using MERN stack with micro-service style architecture.",
     tech: ["React", "Node.js", "Express", "MongoDB", "AWS"],
@@ -20,6 +20,24 @@ const projects = [
     link: "#",
     badge: "AI / LLM",
   },
+  {
+    title: "Task & Seva Management System",
+    description:
+      "Role-based task allocation and management system used by 50+ members, enabling automated assignment, progress tracking, and reduced coordination through smart dashboards and notifications.",
+    tech: ["MERN Stack", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+    link: "#",
+    badge: "Full Stack",
+  }
+  ,
+  {
+    title: "E-commerce Book Store Platform",
+    description:
+      "Full-fledged e-commerce platform for a bookstore, enabling customers to browse, search, and purchase books online. Built with scalable APIs, secure user authentication, cart and order management, and an optimized checkout flow designed for real-world business operations.",
+    tech: ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
+    link: "#",
+    badge: "Full Stack",
+  }
+  ,
   {
     title: "Fuzzy Time Series Forecasting Engine",
     description:

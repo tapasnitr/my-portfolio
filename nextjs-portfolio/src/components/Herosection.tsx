@@ -61,14 +61,12 @@ export default function Hero({ className = "" }: Props) {
             >
               Tapas Manna
               <span className="block mt-2 text-gradient text-slate-700 dark:text-slate-300/80 text-lg font-medium sm:inline sm:ml-3">
-                Full Stack Developer • MERN • AI • LLM • Fuzzy Time Series Researcher
+                Full Stack Developer <br/> 3+ years experience • Startup project lead • MERN, Next.js, Node.js
               </span>
             </motion.h1>
 
             <motion.p variants={item} className="mt-6 text-lg text-slate-600 dark:text-slate-400 max-w-2xl">
-              I build scalable applications and intelligent systems — combining production-ready MERN
-              engineering with research-driven ML solutions (LLMs, time series forecasting and hybrid
-              models). Available for freelance or full-time roles.
+              I build and fix production-ready MERN applications used by thousands of users. Available for freelance or full-time roles.
             </motion.p>
 
             <motion.div variants={item} className="mt-8 flex flex-wrap gap-3">
